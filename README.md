@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Parsa
 ==============================================================================================================================
 
-Python Developer, Django Developer, PHP Developer, Wordpress Designer
+Python Developer, Django Developer, Wordpress Designer
 ---------------------------------------------------------------------
 
 I am a developer transitioning from seven years of WordPress experience into the world of Python, where I focus on building clean, efficient, and scalable websites. My background in web design has given me a strong understanding of user needs, problem solving, and delivering dependable solutions, and I now apply that same discipline to backend development and software engineering. I enjoy learning new technologies, exploring better ways to structure and organize code, and working with others to bring ideas to life. As I grow in Python and its ecosystem, I am committed to continuous improvement and ready to take on opportunities that challenge me, sharpen my skills, and allow me to contribute meaningfully to modern software projects.
